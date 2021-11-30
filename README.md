@@ -7,3 +7,5 @@ Instruction:
 3. Drag&Drop the .uf2 to the Pico4ML drive
 4. After the upload the Pico will restart automatically
 5. Hold a white dice in front of the inbuild camera and the pico will tell you the number of pips!
+
+See how it works on https://www.instagram.com/tv/CWyQZZvFcSy/?utm_source=ig_web_copy_link
